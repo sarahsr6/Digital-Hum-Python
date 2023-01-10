@@ -1,1 +1,40 @@
-Python
+Week 1 Notes: ///////////////////////////////////////////////////////////////////////
+
+Recources:
+  Data visulization with py
+  Tableo and python make maps.
+  Network analysis
+  
+Project gutenburg: free shakespere txt
+
+Text editor:
+  vi docMicrosoftFromDesktop.txt : opens up txt
+  
+XML: X Markup Languige
+  HTML
+  Microsoft .docx .... code visable in command prompt with vi
+  
+HTML:
+{
+<! DOCTYPE HTML>
+<html>
+
+<body>
+
+<h1>Sarah's web page.</h1>
+<p>Hello World!</p>
+
+</body>
+
+</html>
+ }
+ 
+ ////////////////////////////////////////////////////////////////////////////////
+ Python:
+  pretty, clean, explicit, complex better than complecated, readability counts
+  interpreted(dont have to compile before run), object oriented, dynamic semantics
+  
+ GUI vs CLI (command line interface)
+  cli is text only
+  orrrr we can use python interface?
+  
